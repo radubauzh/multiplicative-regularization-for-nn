@@ -30,8 +30,8 @@ This repository contains the codebase for a comparative study of additive (L2-su
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-thesis-repo.git
-   cd your-thesis-repo
+   git clone https://github.com/radubauzh/multiplicative-regularization-for-nn.git
+   cd multiplicative-regularization-for-nn
    ```
 2. **Create a virtual environment** (recommended):
    ```bash
